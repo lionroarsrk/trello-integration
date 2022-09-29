@@ -1,0 +1,26 @@
+{
+  "name": "finaltrelloapp",
+  "version": "1.0.0",
+  "description": "this is api integration app made by siddhesh",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "trello",
+    "auth",
+    "trelloapp",
+    "trello",
+    "crud"
+  ],
+  "author": "Siddhesh Kale",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "oauth": "^0.10.0",
+    "trello": "^0.11.0",
+    "trello-node-api": "^0.0.9",
+    "url": "^0.11.0"
+  }
+}
